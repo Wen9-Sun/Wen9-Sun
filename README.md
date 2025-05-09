@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wenqian sun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wenqian sun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wenqiang sun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wenqiang sun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wen9-sun&show_icons=true&locale=en&layout=compact" alt="wen9-sun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wen9-sun&show_icons=true&locale=en" alt="wen9-sun" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wen9-sun&" alt="wen9-sun" /></p>
